@@ -15,7 +15,7 @@
  */
 package dorkbox.demo.applets;
 
-import dorkbox.tweenengine.TweenAccessor;
+import dorkbox.tweenEngine.TweenAccessor;
 
 /**
  * @author Aurelien Ribon | http://www.aurelienribon.com

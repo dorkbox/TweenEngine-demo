@@ -17,12 +17,12 @@ package dorkbox.demo;
 
 import java.util.Locale;
 
-import dorkbox.tweenengine.BaseTween;
-import dorkbox.tweenengine.Timeline;
-import dorkbox.tweenengine.Tween;
-import dorkbox.tweenengine.TweenAccessor;
-import dorkbox.tweenengine.TweenCallback;
-import dorkbox.tweenengine.TweenEngine;
+import dorkbox.tweenEngine.BaseTween;
+import dorkbox.tweenEngine.Timeline;
+import dorkbox.tweenEngine.Tween;
+import dorkbox.tweenEngine.TweenAccessor;
+import dorkbox.tweenEngine.TweenCallback;
+import dorkbox.tweenEngine.TweenEngine;
 
 public
 class ConsoleDemo {
